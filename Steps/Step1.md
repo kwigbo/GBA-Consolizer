@@ -1,6 +1,6 @@
 # STEP 1 - Setup
 
-[< -- Go Back](../README.md)**
+**[< -- Go Back](../README.md)**
 
 **Print the test pieces gather parts**
 

@@ -1,6 +1,6 @@
 # STEP 3 - Motherboard Mount
 
-[< -- Go Back](../README.md)**
+**[< -- Go Back](../README.md)**
 
 **Choose a version to print and install the brass inserts if that is the version you are printing.**
 

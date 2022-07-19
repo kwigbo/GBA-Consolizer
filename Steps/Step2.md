@@ -1,6 +1,6 @@
 # STEP 2 - GBA Prep
 
-[< -- Go Back](../README.md)**
+**[< -- Go Back](../README.md)**
 
 ## Gambox Systems
 
