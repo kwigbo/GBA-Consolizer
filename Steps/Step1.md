@@ -2,7 +2,7 @@
 
 **[< -- Go Back](../README.md)**
 
-**Print the test pieces gather parts**
+**Print the test pieces and gather parts.**
 
 [Parts List](Parts.md)
 
@@ -16,8 +16,5 @@
 
 ## Printing Details
 
-**Print the model flat side down. There is a difference as one side has to clear the components on the GBA board.**
-
 * No supports
 * 0.2mm layer height
-

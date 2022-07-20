@@ -5,7 +5,8 @@
 ## Gambox Systems
 
 * [Macho Nacho Install YouTube](https://www.youtube.com/watch?v=TSE6hmjlmOE)
-Document cable routing here
+* **[Display Cable Folding](../Cable%20Routing/Gamebox%20-%20Display%20Cable.md)**
+* **[CPU Cable Folding](../Cable%20Routing/Gamebox%20-%20Display%20Cable.md)**
 
 ## Woozle
 
