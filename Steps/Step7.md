@@ -34,7 +34,7 @@
 
 ## Step 4 - Support Bar
 
-**Attach the display ribbon cable to the front of the GBA motherboard (Image 4a). Make sure the ribbon is seated fully (Image not seated to show orientation of the cable). Rest the GBA motherboard on the frame as pictured below (Image 4b). Install the Support Bar. See Image 4B for support bar orientation.**
+**Attach the display ribbon cable to the front of the GBA motherboard (Image 4a). Make sure the ribbon is seated fully (Image not seated to show orientation of the cable). Rest the GBA motherboard on the frame as pictured below (Image 4b) and feed the CPU ribbon into the frame. Install the Support Bar. See Image 4B for support bar orientation.**
 
 ## Parts
 
@@ -69,7 +69,7 @@
 
 **One of the trickies parts is to attach the CPU ribbon cable to the GBAHD board. If bent correctly you should be able to wiggle it into place.**
 
-**Note: I will probably get some more of these and figure out an alternate folds that works better. I only had one and didn't want to bend it too much. You may have to unmount the GBAHD board from the bottom to plug it in.**
+**Note: I will probably get some more of these and figure out alternate folds that works better. I only had one and didn't want to bend it too much. You may have to unmount the GBAHD board from the bottom to plug it in.**
 
 
 ![Step 7](../Images/Gamebox/Frame%20Assembly/Step7.png "Step 7")
