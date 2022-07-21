@@ -7,6 +7,7 @@ GBA Consolizer 3D Printable Case
 * **[STEP 4 - Consolizer Mount](Steps/Step4.md)**
 * **[STEP 5 - Gamebox GBA HD Adapter](Steps/Step5.md)**
 * **[STEP 6 - Support Bar](Steps/Step6.md)**
+* **[STEP 7 - Frame Assembly](Steps/Step7.md)**
 
 # Step X ( Main Shell )
 
