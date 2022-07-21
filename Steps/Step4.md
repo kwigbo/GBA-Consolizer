@@ -2,7 +2,7 @@
 
 **[< -- Go Back](../README.md)**
 
-**Choose a version to print and install the brass inserts if that is the version you are printing.**
+**Choose a version to print and install the brass inserts/pre-tap the holes.**
 
 ## Files
 
