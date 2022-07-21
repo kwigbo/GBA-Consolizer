@@ -21,6 +21,6 @@
 
 **Four M2x8 brass inserts are need for this part if printing the inserts version.**
 
-**IMPORTANT!: Make sure all matting surfaces (top and bottom) are flush when installing the inserts. Any globs of plastic will affect the final fitment. A razor blade can help especially right after install before the plastic has cooled.**
+**IMPORTANT!: Make sure all matting surfaces (top and bottom) are flush when installing the inserts. Any globs of plastic will affect the final fitment. A razor blade can help especially right after install before the plastic has cooled.Refer the the image below when installing.**
 
 ![Motherboard Mount](../Images/Common/Motherboard%20Mount.png "Motherboard Mount")
