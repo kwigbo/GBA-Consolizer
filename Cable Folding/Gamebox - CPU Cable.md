@@ -1,6 +1,6 @@
 # Gamebox CPU Cable Folding
 
-**[< -- Go Back](../Steps/Step2.md)**
+**[< -- GBA Prep](../Steps/Step2.md)**
 
 ![Step 1](../Images/Gamebox/Cables/CPU/Step1.png "Step 1")
 ![Step 2](../Images/Gamebox/Cables/CPU/Step2.png "Step 2")

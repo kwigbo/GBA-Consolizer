@@ -11,4 +11,5 @@
 ## Woozle
 
 * [Macho Nacho Install YouTube](https://www.youtube.com/watch?v=oOdEZN_bgfA)
-Document cable routing here
+
+**TODO: Cable documentation**
