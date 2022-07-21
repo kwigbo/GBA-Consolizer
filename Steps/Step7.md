@@ -34,14 +34,15 @@
 
 ## Step 4 - Support Bar
 
-**Attach the display ribbon cable to the front of the GBA motherboard. Rest the GBA motherboard on the frame as picture below. Install the Support Bar. See image for support bar orientation.**
+**Attach the display ribbon cable to the front of the GBA motherboard (Image 4a). Make sure the ribbon is seated fully (Image not seated to show orientation of the cable). Rest the GBA motherboard on the frame as pictured below (Image 4b). Install the Support Bar. See Image 4B for support bar orientation.**
 
 ## Parts
 
 * **2 - M3x8 Screws** 
 
 
-![Step 4](../Images/Gamebox/Frame%20Assembly/Step4.png "Step 4")
+![Step 4a](../Images/Gamebox/Frame%20Assembly/Step4a.png "Step 4a")
+![Step 4b](../Images/Gamebox/Frame%20Assembly/Step4b.png "Step 4b")
 
 ## Step 5 - GBA Motherboard
 
