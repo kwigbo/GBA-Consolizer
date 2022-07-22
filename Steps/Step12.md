@@ -27,6 +27,8 @@
 * No supports
 * 0.2mm layer height
 
+## Lid Types
+
 * **Type 1:** No Holes for embelishment adapters.
 * **Type 2:** One embelisment hole ( Left )
 * **Type 3:** Two embelisment holes ( Left and Right )
