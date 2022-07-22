@@ -11,16 +11,5 @@ GBA Consolizer 3D Printable Case
 * **[STEP 8 - Catridge Tray](Steps/Step8.md)**
 * **[STEP 9 - Face Plate](Steps/Step9.md)**
 * **[STEP 10 - Rear Plate](Steps/Step10.md)**
-* **[STEP 11 - Shell](Steps/Step11.md)**
+* **[STEP 11 - Consolizer Shell](Steps/Step11.md)**
 * **[STEP 12 - Lid](Steps/Step12.md)**
-
-# Step X ( Main Shell )
-
-**This is a multi-part model but is printed as one piece. The floor is a seperate piece so it can be printed as an infill pattern with zero top layers and zero bottom layers. ( Might be Prusa Slicer only? )**
-
-# Step X ( Lid )
-
-* **Type 1:** No Holes for embelishment adapters.
-* **Type 2:** One embelisment hole ( Left )
-* **Type 3:** Two embelisment holes ( Left and Right )
-* **Type 4:** One embelisment hole ( Left ) and one circular hole right.

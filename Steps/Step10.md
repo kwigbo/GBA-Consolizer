@@ -1,4 +1,4 @@
-# STEP 9 - Rear Plate
+# STEP 10 - Rear Plate
 
 **[< -- Go Back](../README.md)**
 

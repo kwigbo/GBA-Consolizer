@@ -8,7 +8,7 @@
 * **GBA Frame: 4 - M2x8 Brass Inserts**
 * **GBA Front Connection ( Top of GBA ): 2 - M2x10 Screws** 
 * **GBA Back Connection: 2 - M2x6 Screws** 
-* **Main Shell Connection: 2 - M3x10**
+* **Main Shell Connection: 2 - M3x8**
 
 ## GBA Consolizer Mount: 
 
