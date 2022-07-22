@@ -2,6 +2,7 @@
 
 * **Flat Head Machine Screws -> [Amazon](https://a.co/d/2D0doJf)**
 * **Brass Embedded Nuts -> [Amazon](https://a.co/d/0SNjTzL)**
+* **Rubber Feet -> [Amazon](https://a.co/d/iRyxWAl)**
 
 ## Common Parts
 
@@ -9,6 +10,7 @@
 * **GBA Front Connection ( Top of GBA ): 2 - M2x10 Screws** 
 * **GBA Back Connection: 2 - M2x6 Screws** 
 * **Main Shell Connection: 2 - M3x8**
+* **4 - 10mmx2mm Rubber Feet**
 
 ## GBA Consolizer Mount: 
 

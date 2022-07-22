@@ -10,13 +10,13 @@
 
 ## Files
 
-* Gamebox Systems
+* **Gamebox Systems**
 	* [Rear Portplate](../Models%20-%20Common/Rear%20Plate_Gamebox/Rear%20Portplate.3mf)
 	* [Rear Plate Bottom](../Models%20-%20Common/Rear%20Plate_Gamebox/Rear%20Plate%20Bottom.3mf)
 	* [Rear Plate Top](../Models%20-%20Common/Rear%20Plate_Gamebox/Rear%20Plate%20Top.3mf)
 	* [Screw Cover Plate](../Models%20-%20Common/Rear%20Plate_Gamebox/Screw%20Cover%20Plate.3mf)
-* Woozle
-	* Coming Soon
+* **Woozle**
+	* **Coming Soon**
 
 ## Printing Details
 

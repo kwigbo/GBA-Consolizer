@@ -7,6 +7,7 @@
 ## Parts
 
 * **2 - M3x8**
+* **4 - 10mmx2mm Rubber Feet**
 
 ## Files
 
@@ -17,7 +18,7 @@
 * No supports
 * 0.2mm layer height
 
-**Slide the assembled console frame into the Consolizer Shell. There are alignment posts to help put it in the right position. It should slip right in. Connect the frame to the shell with the two M3x8 SCrews from the bottom ( See images below ).**
+**Slide the assembled console frame into the Consolizer Shell. There are alignment posts to help put it in the right position. It should slip right in. Connect the frame to the shell with the two M3x8 SCrews from the bottom ( See images below ). Also, stick the four rubber feet on if desired.**
 
 ![Step 1](../Images/Common/Shell/Step1.png "Step 1")
 ![Step 2](../Images/Common/Shell/Step2.png "Step 2")
