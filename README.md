@@ -17,4 +17,4 @@ GBA Consolizer 3D Printable Case
 * **[STEP 11 - Consolizer Shell](Steps/Step11.md)**
 * **[STEP 12 - Lid](Steps/Step12.md)**
 
-![Step 6](../Images/Common/Lid/Step6.png "Step 6")
+![Complete](Images/Common/Lid/Step6.png "Step 6")
