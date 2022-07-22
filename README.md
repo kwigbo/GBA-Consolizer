@@ -9,7 +9,10 @@ GBA Consolizer 3D Printable Case
 * **[STEP 6 - Support Bar](Steps/Step6.md)**
 * **[STEP 7 - Frame Assembly](Steps/Step7.md)**
 * **[STEP 8 - Catridge Tray](Steps/Step8.md)**
-* **[STEP 9 - Faceplate](Steps/Step9.md)**
+* **[STEP 9 - Face Plate](Steps/Step9.md)**
+* **[STEP 10 - Rear Plate](Steps/Step10.md)**
+* **[STEP 11 - Shell](Steps/Step11.md)**
+* **[STEP 12 - Lid](Steps/Step12.md)**
 
 # Step X ( Main Shell )
 
