@@ -2,6 +2,8 @@
 
 **[< -- Go Back](../README.md)**
 
+**The link port needs to be removed from the GBA motherboard for this design. Future plans are to relocate the port to the rear of the console.**
+
 ## Gambox Systems
 
 * [Macho Nacho Install YouTube](https://www.youtube.com/watch?v=TSE6hmjlmOE)
