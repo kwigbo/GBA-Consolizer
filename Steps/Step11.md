@@ -15,6 +15,7 @@
 
 ## Printing Details
 
+* Time: ~5hrs
 * No supports
 * 0.2mm layer height
 
