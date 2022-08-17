@@ -46,7 +46,7 @@
 * **2 - M2x4 Screws**
 * **2 - M2x6 Screws**
 
-![Step 4](../Images/Gamebox/Frame%20Assembly/Step4.png "Step 4")
+![Step 4](../Images/Woozle/Frame%20Assembly/Step4.png "Step 4")
 
 ## Step 5 - Test
 
