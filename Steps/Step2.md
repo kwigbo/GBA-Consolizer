@@ -14,5 +14,3 @@
 
 * [Macho Nacho Install YouTube](https://www.youtube.com/watch?v=oOdEZN_bgfA)
 * **[Cable Folding](../Cable%20Folding/Woozle%20-%20Cables.md)**
-
-**TODO: Cable documentation**
