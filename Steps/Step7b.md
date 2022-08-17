@@ -39,7 +39,7 @@
 
 ## Step 4 - Woozle Board
 
-**Attach the Woozle board the Consolizer Mounts with the components facing down. The M2x4 screws should be used towards the back of the console near the ports. The longer screws go towards the front where the SNES port is located.**
+**Attach the Woozle board the Consolizer Mounts with the components facing up. The M2x4 screws should be used towards the back of the console near the ports. The longer screws go towards the front where the SNES port is located.**
 
 ## Parts
 
