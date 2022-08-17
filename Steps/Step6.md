@@ -25,6 +25,8 @@
 
 * **2 - M2x6 Brass Inserts**
 
+**Inserts are the same for both varients of the bar.**
+
 **IMPORTANT!: Make sure all matting surfaces (top and bottom) are flush when installing the inserts. Any globs of plastic will affect the final fitment. A razor blade can help especially right after install before the plastic has cooled.Refer the the image below when installing.**
 
 ![Support Bar](../Images/Gamebox/Support%20Bar.png "Support Bar")

@@ -1,4 +1,4 @@
-# STEP 6 - Frame Assembly
+# STEP 7 - Frame Assembly (Gamebox)
 
 **[< -- Go Back](../README.md)**
 
