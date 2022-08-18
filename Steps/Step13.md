@@ -21,7 +21,7 @@
 
 ## Printing Details
 
-**Print the model flat side down. There is a difference as one side has to clear the components on the GBA board.**
+**Print the Component Holder flat side down. Print the Switch Post with the flange on the print bed. All other parts printed flat side down.**
 
 * No supports
 * 0.2mm layer height
