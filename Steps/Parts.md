@@ -38,4 +38,4 @@
 
 * **Switches -> [Amazon](https://a.co/d/1mCzNco)**
 * **LEDs -> [Amazon](https://a.co/d/bPgX2ja)**
-* **Switch Board --> Link Gerber Files Here** 
+* **Switch Board -> [Gerber](../Woozle%20Switch%20Gerber)**
