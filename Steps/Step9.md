@@ -20,7 +20,7 @@
 	* [Faceplate](../Models%20-%20Common/Face%20Plate_Gamebox/Face%20Plate.3mf)
 	* [Button](../Models%20-%20Common/Face%20Plate_Gamebox/Face%20Plate%20Button%20Cap.3mf)
 * Woozle
-	* Coming Soon
+	* [Faceplate](../Models%20-%20Common/Face%20Plate_Woozle/Face%20Plate.3mf)
 
 ## Printing Details
 
