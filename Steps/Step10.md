@@ -17,8 +17,9 @@
 	* [Rear Portplate](../Models%20-%20Common/Rear%20Plate_Gamebox/Rear%20Portplate.3mf)
 	* [Rear Plate Bottom](../Models%20-%20Common/Rear%20Plate_Gamebox/Rear%20Plate%20Bottom.3mf)
 * **Woozle**
-	* [Rear Portplate](../Models%20-%20Common/Rear%20Plate_Woozle/Rear%20Portplate.3mf)
 	* [Rear Plate Bottom](../Models%20-%20Common/Rear%20Plate_Woozle/Rear%20Plate%20Bottom.3mf)
+	* [Rear Portplate](../Models%20-%20Common/Rear%20Plate_Woozle/Rear%20Portplate.3mf)
+	* [Rear Portplate Face](../Models%20-%20Common/Rear%20Plate_Woozle/Rear%20Portplate%20Face.3mf)
 
 ## Printing Details
 
