@@ -30,6 +30,8 @@
 
 **Slide the Rear Portplate into the Rear Plate Bottom with the indents on the same side as the screw holes of the Rear Plate Bottom (See images below).**
 
+**Note: The Woozle version of the Rear Portplate has an extra piece that has to be slid into place in this step as well. The wide side of the plate goes towards the back of the console.**
+
 ![Step 1](../Images/Gamebox/Rear%20Plate/Step1.png "Step 1")
 ![Step 2](../Images/Gamebox/Rear%20Plate/Step2.png "Step 2")
 
