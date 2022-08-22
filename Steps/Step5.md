@@ -7,10 +7,10 @@
 ## Files
 
 * **Consolizer Mount**
-	* [Board Adapter Right Inserts](../Models/Main/Board_Adapter_Right_Inserts_Gamebox.3mf)
-	* [Board Adapter Left Inserts](../Models/Main/Board_Adapter_Left_Inserts_Gamebox.3mf)
-	* [Board Adapter Right No Inserts](../Models/Main/Board_Adapter_Right_Gamebox.3mf)
-	* [Board Adapter Left No Inserts](../Models/Main/Board_Adapter_Left_Gamebox.3mf)
+	* [Board Adapter Right Inserts](../Models/Board_Adapter_Right_Inserts_Gamebox.3mf)
+	* [Board Adapter Left Inserts](../Models/Board_Adapter_Left_Inserts_Gamebox.3mf)
+	* [Board Adapter Right No Inserts](../Models/Board_Adapter_Right_Gamebox.3mf)
+	* [Board Adapter Left No Inserts](../Models/Board_Adapter_Left_Gamebox.3mf)
 
 ## Printing Details
 

@@ -17,10 +17,10 @@
 ## Files
 
 * **Gamebox Systems**
-	* [Faceplate](../Models/Main/Face_Plate_Gamebox.3mf)
-	* [Button](../Models/Main/Face_Plate_Button_Cap_Gamebox.3mf)
+	* [Faceplate](../Models/Face_Plate_Gamebox.3mf)
+	* [Button](../Models/Face_Plate_Button_Cap_Gamebox.3mf)
 * **Woozle**
-	* [Faceplate](../Models/Main/Face_Plate_Woozle.3mf)
+	* [Faceplate](../Models/Face_Plate_Woozle.3mf)
 
 ## Printing Details
 

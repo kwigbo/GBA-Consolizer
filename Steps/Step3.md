@@ -7,8 +7,8 @@
 ## Files
 
 * **Motherboard Mount**
-	* [Motherboard Mount Inserts](../Models/Main/Motherboard_Mount_Inserts.3mf)
-	* [Motherboard Mount No Inserts](../Models/Main/Motherboard_Mount.3mf)
+	* [Motherboard Mount Inserts](../Models/Motherboard_Mount_Inserts.3mf)
+	* [Motherboard Mount No Inserts](../Models/Motherboard_Mount.3mf)
 
 ## Printing Details
 

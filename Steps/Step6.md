@@ -7,12 +7,12 @@
 ## Files
 
 * **Support Bar (Gamebox)**
-	* [Support Bar Inserts](../Models/Main/Support_Bar_Inserts_Gamebox.3mf)
-	* [Support Bar No Inserts](../Models/Main/Support_Bar_Gamebox.3mf)
+	* [Support Bar Inserts](../Models/Support_Bar_Inserts_Gamebox.3mf)
+	* [Support Bar No Inserts](../Models/Support_Bar_Gamebox.3mf)
 
 * **Support Bar (Woozle)**
-	* [Support Bar Inserts](../Models/Main/Support_Bar_Inserts_Woozle.3mf)
-	* [Support Bar No Inserts](../Models/Main/Support_Bar_Woozle.3mf)
+	* [Support Bar Inserts](../Models/Support_Bar_Inserts_Woozle.3mf)
+	* [Support Bar No Inserts](../Models/Support_Bar_Woozle.3mf)
 
 ## Printing Details
 
