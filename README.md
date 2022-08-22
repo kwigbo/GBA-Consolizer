@@ -18,5 +18,6 @@ GBA Consolizer 3D Printable Case
 * **[STEP 11 - Consolizer Shell](Steps/Step11.md)**
 * **[STEP 12 - Lid](Steps/Step12.md)**
 * **[STEP 13 - Woozle Gameboy Switch](Steps/Step13.md)**
+* **[STEP 14 - Amiibo Holder](Steps/Step14.md)**
 
 ![Complete](Images/Common/Lid/Step6.png "Step 6")
