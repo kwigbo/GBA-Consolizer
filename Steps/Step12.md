@@ -12,15 +12,15 @@
 ## Files
 
 * **Lids**
-	* [Lid Type 1](../Models%20-%20Common/Lids/Lid%20Type%201.3mf)
-	* [Lid Type 2](../Models%20-%20Common/Lids/Lid%20Type%202.3mf)
-	* [Lid Type 3](../Models%20-%20Common/Lids/Lid%20Type%203.3mf)
-	* [Lid Type 4](../Models%20-%20Common/Lids/Lid%20Type%204.3mf)
-* [Eject Switch](../Models%20-%20Common/Eject%20System/Eject%20Switch.3mf)
-* [Eject Holder Plate](../Models%20-%20Common/Eject%20System/Eject%20Holder%20Plate.3mf)
+	* [Lid Type 1](../Models/Main/Lid_Type_1.3mf)
+	* [Lid Type 2](../Models/Main/Lid_Type_2.3mf)
+	* [Lid Type 3](../Models/Main/Lid_Type_3.3mf)
+	* [Lid Type 4](../Models/Main/Lid_Type_4.3mf)
+* [Eject Switch](../Models/Main/Eject_Switch.3mf)
+* [Eject Holder Plate](../Models/Main/Eject_Holder_Plate.3mf)
 * **Eject Holder**
-	* [Eject Holder - Inserts](../Models%20-%20Inserts/Eject%20Holder.3mf)
-	* [Eject Holder - No Inserts](../Models%20-%20No%20Inserts/Eject%20Holder.3mf)
+	* [Eject Holder - Inserts](../Models/Main/Eject_Holder_Inserts.3mf)
+	* [Eject Holder - No Inserts](../Models/Main/Eject_Holder.3mf)
 
 ## Printing Details
 

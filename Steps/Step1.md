@@ -8,10 +8,10 @@
 
 ## Files
 
-* **Models - Hole Test/Top Block**
+* [Top Block](../Models/Calibration/Top_Block.3mf)
 * **Print the bottom based on whether you will use inserts or not.**
-	* **Models - Hole Test/Bottom Block - Inserts**
-	* **Models - Hole Test/Bottom Block - No Inserts**
+	* [Bottom Block Inserts](../Models/Calibration/Bottom_Block_Inserts.3mf)
+	* [Bottom Block No Inserts](../Models/Calibration/Bottom_Block_No_Inserts.3mf)
 	
 
 ## Printing Details

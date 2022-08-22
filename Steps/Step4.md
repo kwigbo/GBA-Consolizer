@@ -7,10 +7,10 @@
 ## Files
 
 * **Consolizer Mount**
-	* [Inserts Version - /Models - Inserts/Consolizer Mount Right](../Models%20-%20Inserts/Consolizer%20Mount%20Right.3mf)
-	* [Inserts Version - /Models - Inserts/Consolizer Mount Left](../Models%20-%20Inserts/Consolizer%20Mount%20Left.3mf)
-	* [No Inserts Version - /Models - No Inserts/Consolizer Mount Right](../Models%20-%20No%20Inserts/Consolizer%20Mount%20Right.3mf)
-	* [No Inserts Version - /Models - No Inserts/Consolizer Mount Left](../Models%20-%20No%20Inserts/Consolizer%20Mount%20Left.3mf)
+	* [Consolizer Mount Right Inserts](../Models/Main/Consolizer_Mount_Right_Inserts.3mf)
+	* [Consolizer Mount Left Inserts](../Models/Main/Consolizer_Mount_Left_Inserts.3mf)
+	* [Consolizer Mount Right No Inserts](../Models/Main/Consolizer_Mount_Right.3mf)
+	* [Consolizer Mount Left No Inserts](../Models/Main/Consolizer_Mount_Left.3mf)
 
 ## Printing Details
 

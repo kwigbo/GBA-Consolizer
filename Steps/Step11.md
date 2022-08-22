@@ -11,7 +11,7 @@
 
 ## Files
 
-* [Consolizer Shell](../Models%20-%20Common/Consolizer%20Shell.3mf)
+* [Consolizer Shell](../Models/Main//Consolizer_Shell.3mf)
 
 ## Printing Details
 

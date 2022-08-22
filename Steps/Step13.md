@@ -11,13 +11,13 @@
 ## Files
 
 * **Component Post**
-	* [Component Holder](../Models%20-%20Features/Woozle%20Switch/Switch%20Component%20Holder.3mf)
-	* [Switch Post](../Models%20-%20Features/Woozle%20Switch/Switch%20Post.3mf)
-	* [Holddown Pin x 2](../Models%20-%20Features/Hold%20Down%20Pin.3mf)
+	* [Component Holder](../Models/Features/Woozle_Switch/Switch_Component_Holder.3mf)
+	* [Switch Post](../Models/Features/Woozle_Switch/Switch%20Post.3mf)
+	* [Holddown Pin x 2](../Models/Features/Hold%20Down%20Pin.3mf)
 * **Gameboy Parts**
-	* [Gameboy Body](../Models%20-%20Features/Woozle%20Switch/Gameboy%20Switch%20Body.3mf)
-	* [Gameboy Screen](../Models%20-%20Features/Woozle%20Switch/Gameboy%20Switch%20Screen.3mf)
-	* [Gameboy Buttons](../Models%20-%20Features/Woozle%20Switch/Gameboy%20Switch%20Buttons.3mf)
+	* [Gameboy Body](../Models/Features/Woozle_Switch/Gameboy_Switch_Body.3mf)
+	* [Gameboy Screen](../Models/Features/Woozle_Switch/Gameboy_Switch_Screen.3mf)
+	* [Gameboy Buttons](../Models/Features/Woozle_Switch/Gameboy_Switch_Buttons.3mf)
 
 ## Printing Details
 

@@ -11,11 +11,11 @@
 ## Files
 
 * **32 Pin**
-	* [Cartridge Tray Base](../Models%20-%20Common/Cartridge%20Tray/Cartridge%20Tray%20Base_32.3mf)
-	* [Cartridge Tray Mount ( 32 pin )](../Models%20-%20Common/Cartridge%20Tray/Cartridge%20Tray%20Mount_32.3mf)
+	* [Cartridge Tray Base ( 32 pin )](../Models/Main/Cartridge_Tray_Base_32.3mf)
+	* [Cartridge Tray Mount ( 32 pin )](../Models/Main/Cartridge_Tray_Mount_32.3mf)
 * **40 Pin**
-	* [Cartridge Tray Mount ( 40 pin )](../Models%20-%20Common/Cartridge%20Tray/Cartridge%20Tray%20Mount_40.3mf)
-	* [Cartridge Tray Base ( 40 pin )](../Models%20-%20Common/Cartridge%20Tray/Cartridge%20Tray%20Base_40.3mf)
+	* [Cartridge Tray Base ( 40 pin )](../Models/Main/Cartridge_Tray_Base_40.3mf)
+	* [Cartridge Tray Mount ( 40 pin )](../Models/Main/Cartridge_Tray_Mount_40.3mf)
 
 ## Printing Details
 

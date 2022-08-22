@@ -11,15 +11,15 @@
 ## Files
 
 * **Common Parts**
-	* [Rear Plate Top](../Models%20-%20Common/Rear%20Plate_Common/Rear%20Plate%20Top.3mf)
-	* [Screw Cover Plate](../Models%20-%20Common/Rear%20Plate_Common/Screw%20Cover%20Plate.3mf)
+	* [Rear Plate Top](../Models/Main/Rear_Plate_Top.3mf)
+	* [Screw Cover Plate](../Models/Main/Screw_Cover_Plate.3mf)
 * **Gamebox Systems**
-	* [Rear Portplate](../Models%20-%20Common/Rear%20Plate_Gamebox/Rear%20Portplate.3mf)
-	* [Rear Plate Bottom](../Models%20-%20Common/Rear%20Plate_Gamebox/Rear%20Plate%20Bottom.3mf)
+	* [Rear Portplate](../Models/Main/Rear_Portplate_Gamebox.3mf)
+	* [Rear Plate Bottom](../Models/Main/Rear_Plate_Bottom_Gamebox.3mf)
 * **Woozle**
-	* [Rear Plate Bottom](../Models%20-%20Common/Rear%20Plate_Woozle/Rear%20Plate%20Bottom.3mf)
-	* [Rear Portplate](../Models%20-%20Common/Rear%20Plate_Woozle/Rear%20Portplate.3mf)
-	* [Rear Portplate Face](../Models%20-%20Common/Rear%20Plate_Woozle/Rear%20Portplate%20Face.3mf)
+	* [Rear Portplate](../Models/Main/Rear_Portplate_Woozle.3mf)
+	* [Rear Plate Bottom](../Models/Main/Rear_Plate_Bottom_Woozle.3mf)
+	* [Rear Portplate Face](../Models/Main/Rear_Portplate_Face_Woozle.3mf)
 
 ## Printing Details
 
