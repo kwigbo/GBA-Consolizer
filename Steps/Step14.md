@@ -16,6 +16,7 @@
 * [Holder Tray](../Models/Amiibo_Holder_Tray.3mf)
 * [Decorative Ring](../Models/Amiibo_Decorative_Ring.3mf)
 
+## Parts Needed
 * 1x Holder Post Variant
 * 2x Holddown Pins
 * 2x Top Clips
