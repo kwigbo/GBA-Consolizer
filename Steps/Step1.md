@@ -8,10 +8,10 @@
 
 ## Files
 
-* [Top Block](../Models/Calibration/Top_Block.3mf)
+* [Top Block](../Models/Calibration_Top_Block.3mf)
 * **Print the bottom based on whether you will use inserts or not.**
-	* [Bottom Block Inserts](../Models/Calibration/Bottom_Block_Inserts.3mf)
-	* [Bottom Block No Inserts](../Models/Calibration/Bottom_Block_No_Inserts.3mf)
+	* [Bottom Block Inserts](../Models/Calibration_Bottom_Block_Inserts.3mf)
+	* [Bottom Block No Inserts](../Models/Calibration_Bottom_Block_No_Inserts.3mf)
 	
 
 ## Printing Details
