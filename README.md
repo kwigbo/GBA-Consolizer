@@ -2,8 +2,9 @@
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 # GBA-Consolizer
-GBA Consolizer 3D Printable Case
+**GBA Consolizer 3D Printable Case. Build your own Gameboy Advance console! This was designed to have multiple customization points and works with both Gamebox Systems and Woozle consolizer kit. This can also be adapted to any new consolizer kits that may come out in the future. Uses an AGB Gameboy Advance main board.**
 
+# Steps
 * **[STEP 1 - Setup](Steps/Step1.md)**
 * **[STEP 2 - GBA Prep](Steps/Step2.md)**
 * **[STEP 3 - Motherboard Mount](Steps/Step3.md)**
