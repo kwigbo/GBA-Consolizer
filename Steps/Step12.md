@@ -16,6 +16,7 @@
 	* [Lid Type 2](../Models/Lid_Type_2.3mf)
 	* [Lid Type 3](../Models/Lid_Type_3.3mf)
 	* [Lid Type 4](../Models/Lid_Type_4.3mf)
+	* [Lid Type 5](../Models/Lid_Type_5.3mf)
 * [Eject Switch](../Models/Eject_Switch.3mf)
 * [Eject Holder Plate](../Models/Eject_Holder_Plate.3mf)
 * **Eject Holder**
@@ -33,6 +34,7 @@
 * **Type 2:** One embelisment hole ( Left )
 * **Type 3:** Two embelisment holes ( Left and Right )
 * **Type 4:** One embelisment hole ( Left ) and one circular hole right.
+* **Type 5:** One circular hole right.
 
 **Choose a type and print. Type 1 is the minimum needed to cover the top and will be outlined here. All others install the same, they just have options for decorations which will be outlined in the next step.**
 
